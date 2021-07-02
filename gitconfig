@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = Shahwanoo@live.com
+	name = Mohammad Alshahwan
